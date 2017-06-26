@@ -1,0 +1,8 @@
+Description:
+    Create a api template
+
+Example:
+    rails generate interface v1 acticles create
+
+    This will create:
+        app/controller/api/v1/articles/create_action.rb

@@ -1,0 +1,10 @@
+Description:
+    Initilize the grape api config file
+
+Example:
+    rails generate install v1
+
+    This will create:
+        app/controller/api/v1/base.rb
+        app/controller/api/v1/defaults.rb
+        app/controller/api/v1/entities/api_error.rb
